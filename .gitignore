@@ -1,0 +1,68 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test reports
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# MyPy, Pyright
+.mypy_cache/
+.pyright/
+
+# PyInstaller
+*.spec
+
+# Pylint
+.pylint.d/
+
+# pyproject tools (like poetry or pipenv)
+poetry.lock
+Pipfile.lock
+
+# Unit test cache
+.cache/
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Mac/Linux trash
+.Trashes
